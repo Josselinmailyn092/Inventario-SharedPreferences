@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">persistencia_datos</string>
+    <string name="nombre_producto">Nombre de Producto</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_buscar">Buscar</string>
+    <string name="boton_limpiar">Limpiar</string>
+</resources>
